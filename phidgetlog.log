@@ -1,0 +1,22 @@
+2024-09-28T14:45:09.610  <Info> phidget22 : 
+	******************************  Logging Enabled  ******************************
+	* Phidget22 - Version 1.19 - Built May 13 2024 13:04:42                       *
+	* Release 1.19.20240513 - Windows (64-bit)                                    *
+	*******************************************************************************
+2024-09-28T14:45:09.613  <Info> phidget22usb[AttachUSBDevice()] : Attaching HID Phidget | Path: \\?\hid#vid_06c2&pid_003b#7&865c4fa&2&0000#{4d1e55b2-f16f-11cf-88cb-001111000030} | PDO Name: \Device\00000bdd
+2024-09-28T14:45:09.621  <Info> phidget22[deviceAttach()] : (Attach) 1046 (PhidgetBridge 4-Input) v102 S/N:566432
+2024-09-28T14:45:09.625  <Info> phidget22usb[PhidgetUSBOpenHandle()] : Opened USB Device: 0x23c
+2024-09-28T14:45:09.625  <Info> phidget22[PhidgetUSBReadThreadFunction()] : 1046 (PhidgetBridge 4-Input) v102 S/N:566432: USB read thread started: 0x00002278
+2024-09-28T14:45:26.388  <Info> phidget22usb[PhidgetUSBCloseHandle()] : Closing USB Device: 0x23c
+2024-09-28T14:45:26.388  <Info> phidget22[PhidgetUSBReadThreadFunction()] : 1046 (PhidgetBridge 4-Input) v102 S/N:566432: ReadThread exiting normally (signaled by Phidget_close)
+2024-09-28T14:47:41.968  <Info> phidget22 : 
+	******************************  Logging Enabled  ******************************
+	* Phidget22 - Version 1.19 - Built May 13 2024 13:04:42                       *
+	* Release 1.19.20240513 - Windows (64-bit)                                    *
+	*******************************************************************************
+2024-09-28T14:47:41.971  <Info> phidget22usb[AttachUSBDevice()] : Attaching HID Phidget | Path: \\?\hid#vid_06c2&pid_003b#7&865c4fa&2&0000#{4d1e55b2-f16f-11cf-88cb-001111000030} | PDO Name: \Device\00000bdd
+2024-09-28T14:47:41.979  <Info> phidget22[deviceAttach()] : (Attach) 1046 (PhidgetBridge 4-Input) v102 S/N:566432
+2024-09-28T14:47:41.982  <Info> phidget22usb[PhidgetUSBOpenHandle()] : Opened USB Device: 0x278
+2024-09-28T14:47:41.982  <Info> phidget22[PhidgetUSBReadThreadFunction()] : 1046 (PhidgetBridge 4-Input) v102 S/N:566432: USB read thread started: 0x00004340
+2024-09-28T14:47:45.673  <Info> phidget22usb[PhidgetUSBCloseHandle()] : Closing USB Device: 0x278
+2024-09-28T14:47:45.673  <Info> phidget22[PhidgetUSBReadThreadFunction()] : 1046 (PhidgetBridge 4-Input) v102 S/N:566432: ReadThread exiting normally (signaled by Phidget_close)
